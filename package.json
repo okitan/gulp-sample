@@ -1,0 +1,13 @@
+{
+  "name": "gulp-sample",
+  "version": "1.0.0",
+  "description": "gulp sample app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.10"
+  }
+}
