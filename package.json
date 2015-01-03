@@ -8,6 +8,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "gulp": "^3.8.10"
+    "coffee-script": "^1.8.0",
+    "gulp": "^3.8.10",
   }
 }
